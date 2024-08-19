@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Symbols&weight=700&size=28&pause=1000&random=false&width=550&height=50&lines=Welcome+to+Dream+Barista+Developers!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Symbols&weight=700&size=28&pause=1000&random=false&width=550&height=50&lines=Welcome+to+LDI+Developers!)](https://git.io/typing-svg)
 
 We are a developer team dedicated to creating programmes that help people with lucid dreaming. Whether that means creating tools to assist on the development of projects from other developers or developing our own proprietary software, we only have one goal in mind and that is helping promote lucid dreaming awareness!
 
